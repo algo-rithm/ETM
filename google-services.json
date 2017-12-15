@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "196088595571",
+    "firebase_url": "https://etm-dt.firebaseio.com",
+    "project_id": "etm-dt",
+    "storage_bucket": "etm-dt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196088595571:android:5841c36e78d673b3",
+        "android_client_info": {
+          "package_name": "com.delmarvatechnologies.etm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196088595571-hktqlevdstl9asrju0l2qn6jl0p37dsu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.delmarvatechnologies.etm",
+            "certificate_hash": "aa2ee534acbe064a04f862ead050532dce787b33"
+          }
+        },
+        {
+          "client_id": "196088595571-2n5io7v10f2qij0be61tk9gkuk4pmscd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsLBQOCZmdc_4ngtKJfKM2S93EuHZzWbs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196088595571-2n5io7v10f2qij0be61tk9gkuk4pmscd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

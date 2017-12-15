@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- primary colors -->
+    <color name="colorPrimary">#009688</color>
+    <color name="colorPrimaryDark">#00796B</color>
+    <color name="colorPrimaryLight">#00bfa5</color>
+    <color name="colorAccent">#D32F2F</color>
+    <!-- Navigation header colors -->
+    <color name="colorBlue">#303f9f</color>
+    <color name="colorGreen">#cddc39</color>
+    <!-- login colors -->
+    <color name="loginScreen">#282b4d</color>
+    <color name="tradeMark">#b0bec5</color>
+    <color name="inputLoginHint">#cfd8dc</color>
+    <color name="inputLogin">#ffffff</color>
+    <color name="darkWhite">#efebe9</color>
+    <!-- Main Activity and Card View -->
+    <color name="card">#a5d6a7</color>
+    <!-- Other -->
+    <color name="white">#ffffff</color>
+    <color name="grey">#757575</color>
+
+    <color name="balance_text">#222222</color>
+
+    <color name="balance_color">#64dd17</color>
+    <color name="background_shade">#ededed</color>
+</resources>
